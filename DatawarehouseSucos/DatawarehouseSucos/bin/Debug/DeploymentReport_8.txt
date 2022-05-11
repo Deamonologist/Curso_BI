@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Fato_004] (Table)
+       [dbo].[FK_Fato_004_Dim_Cliente] (Foreign Key)
+       [dbo].[FK_Fato_004_Dim_Produto] (Foreign Key)
+       [dbo].[FK_Fato_004_Dim_Organizacional] (Foreign Key)
+       [dbo].[FK_Fato_004_Dim_Tempo] (Foreign Key)
+
+** Supporting actions
